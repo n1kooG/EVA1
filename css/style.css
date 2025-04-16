@@ -25,6 +25,8 @@ nav a {
     text-decoration: none;
     float: left;
     padding: 10px 15px;
+    font-size: 18px;
+    transition: all 0.3s ease;
 }
 
 nav a:hover {
